@@ -1,0 +1,75 @@
+footer{
+    min-height: 50px;
+    background-color: $color3;
+    color:$color4;
+    padding: 2rem 2.5rem;
+
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 4rem;
+    justify-content:center;
+    align-items: center;
+
+    >.heading{
+        display: flex;
+        gap: 1.2rem;
+        >a{
+            font-size: 2.2rem;
+            color: $color3;
+            background-color: #fff;
+            padding: 4px 15px;
+            border-radius: 50%;
+
+
+            &:hover{
+                background-color: #FFF5E0;
+                color: $color6;
+            }
+            
+            
+        }
+    }
+
+   
+    
+    >.socialmedia{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border-left: 2px solid $color6;
+        border-right: 2px solid $color6;
+        padding: 0 2rem;
+        margin: 1rem 2rem;
+        gap: 2.5rem;
+        
+
+        >a{
+            &:hover{
+                transform: scale(1.1);
+            }
+        }
+    }
+
+   
+
+
+    >.contacts{
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    
+
+        >div{
+            display: flex;
+            align-items: center;
+            
+            gap: 1rem;
+            margin-block: 0.7rem;
+        }
+    }
+    
+
+
+    
+}

@@ -1,0 +1,64 @@
+{
+    "projects": [
+      
+      {
+        "date": "1-Aug-23",
+        "title": "Crypto-X",
+        "description": "Implemented a real time feed for all major cryptocurrencies ,allowing users to track  coins in real time , view real-time charts of  prices (using -React,axios,javascript,chakra UI)",
+        "url": "https://crypto-x-react-app.vercel.app/",
+        "imgSrc": "https://cdn.pixabay.com/photo/2017/12/12/12/44/bitcoin-3014614_960_720.jpg"
+      },
+
+
+      {
+        "date": "22-July-23",
+        "title": "Weather forcasting App",
+        "description": "Developed a weather forecasting application using HTML, CSS, and JavaScript. The application is responsive and works on all devices",
+        "url": "https://my-weather-app4.netlify.app/",
+        "imgSrc": "https://mcdn.wallpapersafari.com/medium/36/84/x349e5.jpg"
+      },
+
+
+
+      {
+        "date": "20-Aug-23",
+        "title": "PORTFOLIO",
+        "description": "Created my own web portfolio using Firebase ,React,Sass.",
+        "url": "/",
+        "imgSrc": "https://cdn.pixabay.com/photo/2020/03/19/21/25/cactus-4948833_960_720.jpg"
+      },
+
+
+      
+      {
+        "date": "15-July-23",
+        "title": "Password Generator App",
+        "description": "Developed a password generator web application using HTML, CSS, and JavaScript.The application allows users to generate strong and secure passwords.",
+        "url": "https://my-password-generator1.netlify.app/",
+        "imgSrc": "https://cdn.pixabay.com/photo/2017/09/24/11/59/password-2781614_960_720.jpg"
+      },
+
+
+      
+
+
+
+
+
+
+      {
+        "date": "8-Aug-23",
+        "title": "REACT CART",
+        "description": "Developed a fully functional cart for an e-commerce app using React,The cart allows users to add  , remove items from their cart, and update the quantity of items in their cart",
+        "url": "https://react-cart-gill.vercel.app/",
+        "imgSrc": "https://cdn.pixabay.com/photo/2019/12/14/08/36/shopping-4694470_960_720.jpg"
+      }
+      
+  
+      
+     
+  
+     
+     
+    ]
+  }
